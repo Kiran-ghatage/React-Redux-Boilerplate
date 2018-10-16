@@ -1,0 +1,26 @@
+{
+  "name": "sgonlineplayment",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kiran G",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.4",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2"
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.5",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "redux": "^4.0.1"
+  }
+}
